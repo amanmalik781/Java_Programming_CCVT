@@ -1,9 +1,10 @@
 package com.rt.cloning;
-//Comeent Added Here
+//Hello CCVT, from Amandeep Malik
 public class Department implements Cloneable{
 	
 	private int did;
 	private String dname;
+	System.out.print("HEllO CCVT FROM AMANDEEP MALIK")
 	public int getDid() {
 		return did;
 	}
